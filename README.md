@@ -1,3 +1,6 @@
+The project is still not finished and needs to implement good practices 
+I will keep with the hard work!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
